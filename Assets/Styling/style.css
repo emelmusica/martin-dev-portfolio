@@ -439,11 +439,12 @@ header .headerText {
   z-index: 1;
 }
 
+/* Header section */
 header .headerText h1 {
   font-size: 3rem;
   font-weight: 700;
   margin: 10px 0;
-  color: #e96269;
+  color: #000000;
   position: relative;
   max-width: 200px;
   width: 80%;
@@ -469,9 +470,9 @@ header .headerText h1 span {
 header .headerText h1::after {
   content: "";
   position: absolute;
-  background-color: #ffe9e9;
-  -webkit-box-shadow: 0 0 8px #ffd6d6;
-          box-shadow: 0 0 8px #ffd6d6;
+  background-color: #6b6b6b;
+  -webkit-box-shadow: 0 0 8px #bdbdbd;
+          box-shadow: 0 0 8px #6b6b6b;
   height: 15px;
   left: 8px;
   bottom: 0;
@@ -491,7 +492,7 @@ header .scrollDownText {
   padding-top: 90vh;
   font-family: "Nanum Pen Script", "cursive";
   font-size: 23px;
-  color: #e96269;
+  color: #000000;
   z-index: -11;
 }
 
