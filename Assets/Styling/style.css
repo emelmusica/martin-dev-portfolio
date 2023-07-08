@@ -1427,14 +1427,14 @@ video:hover {
   width: auto;
   border-radius: 5px;
   text-decoration: none;
-  color: white;
+  color: rgb(0, 0, 0);
   text-transform: uppercase;
 }
 
 .contact .contactContainer .contactForm button:hover {
   background-color: white;
   color: #000000;
-  border: 2px solid #ffe100;
+  border: 2px solid #000000;
 }
 
 footer {
