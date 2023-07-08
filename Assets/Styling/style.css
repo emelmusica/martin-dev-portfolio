@@ -1312,7 +1312,7 @@ video:hover {
 }
 
 .contact h2 {
-  color: #e96269;
+  color: #000000;
   font-size: 3rem;
   padding: 0;
   margin: 0;
@@ -1323,9 +1323,9 @@ video:hover {
 .contact h2::before {
   content: "";
   position: absolute;
-  background-color: #ffe3e3;
-  -webkit-box-shadow: 0 0 8px #ffd9d9;
-          box-shadow: 0 0 8px #ffd9d9;
+  background-color: #b2b2b2;
+  -webkit-box-shadow: 0 0 8px #000000;
+          box-shadow: 0 0 8px #000000;
   height: 18px;
   left: 5px;
   bottom: 0;
@@ -1410,7 +1410,7 @@ video:hover {
 .contact .contactContainer .contactForm textarea {
   padding: 10px;
   margin: 10px 0;
-  border: 2px solid #ffd5d5;
+  border: 2px solid #000000;
   border-radius: 5px;
   resize: none;
 }
@@ -1433,8 +1433,8 @@ video:hover {
 
 .contact .contactContainer .contactForm button:hover {
   background-color: white;
-  color: #ff7171;
-  border: 2px solid #ffd5d5;
+  color: #000000;
+  border: 2px solid #ffe100;
 }
 
 footer {
