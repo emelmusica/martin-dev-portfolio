@@ -470,9 +470,9 @@ header .headerText h1 span {
 header .headerText h1::after {
   content: "";
   position: absolute;
-  background-color: #6b6b6b;
-  -webkit-box-shadow: 0 0 8px #bdbdbd;
-          box-shadow: 0 0 8px #6b6b6b;
+  background-color: #c3c3c3;
+  -webkit-box-shadow: 0 0 8px #d0d0d0;
+          box-shadow: 0 0 8px #ffde58;
   height: 15px;
   left: 8px;
   bottom: 0;
